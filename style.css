@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'rothenbg';
+    src: url('rothenbg.ttf');
+}
+@font-face {
+    font-family: 'LeckerliOne-Regular';
+    src: url('LeckerliOne-Regular.otf');
+}
+@font-face {
+    src: url('amita-bold.ttf');
+}
+@font-face {
+    font-family: 'amita-regular';
+    src: url('amita-regular.ttf');
+}
+font-face {
+    font-family: 'IndieFlower';
+    src: url('IndieFlower.ttf');
+}
+body
+{
+	background-image: url("image_fond.jpg");
+	background-repeat: no-repeat;
+}
+h1
+{   
+	font-family: 'LeckerliOne-Regular';
+	font-size: 5em;
+	color: 	;
+	text-align: center;
+	border: 7px black groove;
+	border-radius: 900px / 90px;
+	box-shadow: 5px 5px 5px #fa3a5d;
+	text-shadow: 5px 5px 5px #fa3a5d;
+	width: 900px;
+	padding: 10px;
+	
+}
+h2
+{
+	font-family: 'arial';
+	text-decoration: underline;
+	text-align: left;
+	color: teal;
+	font-size: 2.3em;
+
+}
+a
+{
+	text-decoration: none;
+	color: violet;
+}
+a:hover
+{
+	color: blue;
+}
+li,p:hover
+{
+	color:red;
+}
+p:active
+{
+	background-color: black;
+}
+p:focus
+{
+	background-color: black;
+}
+a:visited
+{
+	color: green;
+}
+.imageflottante
+	{
+		float: left;
+		border: 5px #fa3a5d  solid;
+	}
+.dessous
+{
+	clear: both;
+}
+p,li
+{
+	font-family: "comic sans ms", arial;
+	font-weight: bold;
+	color: grey;
+	font-size: 1.14em;
+}
+li a
+{
+	color: red;
+}
