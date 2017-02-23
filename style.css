@@ -41,14 +41,14 @@ h2
 	font-family: 'arial';
 	text-decoration: underline;
 	text-align: left;
-	color: teal;
-	font-size: 2.3em;
+	color: black;
+	font-size: 2.7em;
 
 }
 a
 {
 	text-decoration: none;
-	color: violet;
+	color: black;
 }
 a:hover
 {
@@ -56,7 +56,7 @@ a:hover
 }
 li,p:hover
 {
-	color:red;
+	color:blue;
 }
 p:active
 {
@@ -68,7 +68,7 @@ p:focus
 }
 a:visited
 {
-	color: green;
+	color: grey;
 }
 .imageflottante
 	{
@@ -83,10 +83,10 @@ p,li
 {
 	font-family: "comic sans ms", arial;
 	font-weight: bold;
-	color: grey;
+	color: black;
 	font-size: 1.14em;
 }
 li a
 {
-	color: red;
+	color: black;
 }
